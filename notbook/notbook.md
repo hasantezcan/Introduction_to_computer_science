@@ -51,7 +51,3 @@
 <p align="center">
 	<img alt="notbooks" src="13.jpg" >
 </p>
-
-<p align="center">
-	<img alt="notbooks" src="7.jpg" >
-</p>
